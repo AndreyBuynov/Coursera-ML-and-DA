@@ -6,3 +6,5 @@ My programming assignment in course Machine Learning and Data Analizing
 Course 1 - Математика и Python для анализа данных
 
 Course 2 - Обучение на размеченных данных
+
+Course 3 - Поиск структуры в данных
